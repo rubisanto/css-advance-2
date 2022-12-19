@@ -30,16 +30,10 @@ https://fonts.google.com/specimen/Bebas+Neue?category=Display&subset=latin&noto.
 
 https://fonts.google.com/specimen/Comfortaa - body
 
-### Exemples
-
-- _Roboto medium 20px_ pour le titre de niveau 1 _h1_
-
-- _Roboto medium 18px_ pour le titre de niveau 1 _h2_
-
-- _times new roman_ pour le body
-
-- etc
-
 ## Maquettes
 
 Affichez toutes vos maquettes ici au format images (png ou jpeg).
+
+![contact-part1](./images/contact-part1.png)
+![contact-part2](./images/contact-part2.png)
+![qui-sommes-nous](./images/qui-sommes-nous.png)
